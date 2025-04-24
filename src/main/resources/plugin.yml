@@ -1,0 +1,48 @@
+name: SkyPvP
+version: '${project.version}'
+main: me.firas.skypvp.Main
+author: Webmasters
+softdepend:
+  - ProtocolLib
+api-version: '1.20'
+commands:
+  lootbox:
+  addcoins:
+  addkills:
+  adddeaths:
+  build:
+  hubcooldown:
+  vote:
+  settings:
+  addpoints:
+  invsee:
+  reloadmenu:
+  tpa:
+  resetstats:
+    permission: skypvp.resetstats
+  enderchest:
+    aliases:
+      - ec
+  stats:
+  ranks:
+  scramble:
+    aliases:
+      - hideprestige
+      - sc
+  setlocation:
+  trash:
+  spectate:
+    aliases:
+      - spec
+      - spectator
+      - spectators
+  region:
+  generators:
+    aliases:
+      - gen
+      - generator
+  achiv:
+    aliases:
+      - addachievement
+      - addachievements
+      - addachiv

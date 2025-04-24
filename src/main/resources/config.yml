@@ -1,0 +1,9 @@
+sql:
+  driver: "jdbc:mysql://"
+  databaseProperties: ""
+  maximumPoolSize: 3
+  host: 188.40.72.93
+  port: 3306
+  user: u5_LZ2Bq5vkJC
+  dbname: s5_formax_testing
+  pass: 'zTS.^vC6yR=JRyDdx!92vblp'
